@@ -1,2 +1,6 @@
-# horadecodar-django-youtube
-Curso de Django para o Youtube do horaDeCodar.
+## Task With Django
+
+Uso do Framework Django para criar um sistema Web de criação de tarefas, sendo possível:
+- Criar conta;
+- Autenticação;
+- CRUD.
